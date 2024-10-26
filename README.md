@@ -60,8 +60,11 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+![Cartesian output](https://github.com/user-attachments/assets/38c37c47-a08c-46d4-8199-f9ff726a5a2e)
+
+
+### Name: Tamizhselvan B
+### Register Number:212223230225
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
